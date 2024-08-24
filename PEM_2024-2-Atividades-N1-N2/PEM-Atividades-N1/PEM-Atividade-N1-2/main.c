@@ -1,5 +1,13 @@
+/*--------------------------------------------------------*
+* Disciplina: Programaçao Estruturada e Modular *
+*          Prof. Carlos Veríssimo                                    *
+*--------------------------------------------------------*
+* Objetivo do Programa: Calcular a nota final de um candidato para a vaga de estágiario da empresa de TI.      *
+* Data - 23/08/2024                                              * 
+* Autor: Diego Silva * 
+*--------------------------------------------------------*/
+
 #include <stdio.h>
-//Diego Silva De Oliveira
 int main() {
     int qntn;
 
